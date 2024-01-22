@@ -12,16 +12,6 @@ body {
 	padding: 0px;
 }
 
-div#cover {
-	width: 100%;
-	height: 100%;
-	margin: 0px;
-	padding: 0px;
-	position: absolute;
-	left: 0px;
-	top: 0px;
-}
-
 div#main {
 	width: 75%;
 	max-width: 600px;
